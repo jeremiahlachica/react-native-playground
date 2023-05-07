@@ -1,0 +1,7 @@
+ios/build
+ios/Pods
+node_modules
+vendor
+android/app/src/debug
+android/.gradle
+android/app/build
